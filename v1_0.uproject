@@ -49,6 +49,18 @@
 		{
 			"Name": "ChaosClothGenerator",
 			"Enabled": true
+		},
+		{
+			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "HairCardGenerator",
+			"Enabled": true
+		},
+		{
+			"Name": "HairModelingToolset",
+			"Enabled": true
 		}
 	]
 }
