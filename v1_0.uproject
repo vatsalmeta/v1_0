@@ -36,7 +36,7 @@
 		},
 		{
 			"Name": "HairStrands",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "ChaosClothAsset",
@@ -56,11 +56,11 @@
 		},
 		{
 			"Name": "HairCardGenerator",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "HairModelingToolset",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
